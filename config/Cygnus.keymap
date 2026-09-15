@@ -18,11 +18,6 @@
     combos {
         compatible = "zmk,combos";
 
-        double_quotation {
-            bindings = <&kp DOUBLE_QUOTES>;
-            key-positions = <20 21>;
-        };
-
         Escape {
             bindings = <&kp ESCAPE>;
             key-positions = <1 2>;
