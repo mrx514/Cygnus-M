@@ -70,7 +70,7 @@
 
         hatena {
             bindings = <&kp QUESTION>;
-            key-positions = <20 21>;
+            key-positions = <38 37>;
         };
     };
 
